@@ -39,6 +39,8 @@
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
+		<project.scm.id>github</project.scm.id>
+
 		<java.version>17</java.version>
 		<maven.releases.plugin.version>2.5.3</maven.releases.plugin.version>
 	</properties>
