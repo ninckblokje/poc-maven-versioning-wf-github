@@ -42,7 +42,7 @@
 		<project.scm.id>github</project.scm.id>
 
 		<java.version>17</java.version>
-		<maven.releases.plugin.version>2.5.3</maven.releases.plugin.version>
+		<maven.releases.plugin.version>3.0.1</maven.releases.plugin.version>
 	</properties>
 
 	<repositories>
