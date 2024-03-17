@@ -34,7 +34,7 @@
 	</parent>
 	<groupId>ninckblokje.poc.github</groupId>
 	<artifactId>poc-maven-versioning-wf-github</artifactId>
-	<version>0.0.11-SNAPSHOT</version>
+	<version>0.0.11</version>
 	<name>poc-maven-versioning-wf-github</name>
 	<description>Demo project for Spring Boot</description>
 
@@ -67,7 +67,7 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/ninckblokje/poc-maven-versioning-wf-github</developerConnection>
-		<tag>HEAD</tag>
+		<tag>v0.0.11</tag>
 	</scm>
 
 	<dependencies>
